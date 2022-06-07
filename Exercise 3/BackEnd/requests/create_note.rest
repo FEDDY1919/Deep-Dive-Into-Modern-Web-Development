@@ -1,0 +1,7 @@
+POST https://mighty-oasis-75691.herokuapp.com/api/persons
+Content-Type: application/json
+
+{
+    "name" : "Larry",
+    "number" : "12344567"
+}
